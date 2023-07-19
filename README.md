@@ -26,7 +26,7 @@
 <a href="https://twitter.com/naimur61" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="naimur61" height="30" width="30" /></a>
 <a href="https://www.hackerrank.com/naimur61" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="naimur61" height="30" width="30" /></a>
 <a href="https://discord.gg/naimur61#8654" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="naimur61#8654" height="30" width="30" /></a>
-<a href="https://stackoverflow.com/users/https://stackoverflow.com/users/20724039/naimur" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="https://stackoverflow.com/users/20724039/naimur" height="30" width="30" /></a>
+<a href="https://stackoverflow.com/users/20724039/naimur" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="https://stackoverflow.com/users/20724039/naimur" height="30" width="30" /></a>
 <a href="https://fb.com/naimur.r61" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="naimur.r61" height="30" width="30" /></a>
 </p>
 
