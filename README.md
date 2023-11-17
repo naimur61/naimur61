@@ -82,7 +82,7 @@
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
 
-# GitHub Stats:<img src="image/Statistics.png" alt="GitHub Stats" width="20" height="20">
+# GitHub Stats:<img src="image/Statistics.jpg" alt="GitHub Stats" width="20" height="20">
 
 <div style="display: flex; justify-content: center">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=naimur61&theme=midnight-purple&hide_border=false" width=70% alt="GitHub Streak Stats" />
