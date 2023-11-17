@@ -1,4 +1,4 @@
- ![Design and Development](https://github.com/naimur61/naimur61/blob/main/front-end%20banner.gif)
+![Design and Development](https://github.com/naimur61/naimur61/blob/main/front-end%20banner.gif)
 
 <h1 align="center">Hi 👋,<br/> I'm Md. Naimur Rahman</h1>
 <h3 align="center">A passionate Jr. MERN Stack Developer from Bangladesh</h3>
@@ -82,14 +82,12 @@
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
 
-# 📊 GitHub Stats:
+# GitHub Stats:<img src="image/Statistics.png" alt="GitHub Stats" width="20" height="20">
 
 <div style="display: flex; justify-content: center">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=naimur61&theme=midnight-purple&hide_border=false" width=70% alt="GitHub Streak Stats" />
 </div>
 <br>
-
-### Statistics
 
 <div align="center">
 
