@@ -2,6 +2,7 @@
 
 <h1 align="center">Hi 👋,<br/> I'm Md. Naimur Rahman</h1>
 <h3 align="center">A passionate Jr. MERN Stack Developer from Bangladesh</h3>
+<br>
 <img align="right" alt="Coding" width="400" src="https://github.com/naimur61/naimur61/blob/main/front-end-development.gif"
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=naimur61&label=Profile%20views&color=0e75b6&style=flat" alt="naimur61" /> </p>
@@ -9,11 +10,14 @@
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
 🔭 Currently working on [Bike](https://bike-4.web.app/)
+
 🌱 Actively learning **Mongoose** to enhance my skill set.
 
 ### About Me
 
-💡 Always eager to learn and explore new technologies, staying ahead in the rapidly evolving world of web development.
+💡 Always eager to learn and explore new technologies, staying ahead in the 
+
+rapidly evolving world of web development.
 
 🌟 Completed a comprehensive web development course at Programming Hero, refining my skills and gaining practical experience.
 
@@ -23,15 +27,13 @@
 
 ### Get in Touch
 
-📫 Reach me at m.naimur61@gmail.com. Let's connect and share our knowledge!
+📫 Reach me at **m.naimur61@gmail.com.** Let's connect and share our knowledge!
 
 🌐 Check out my portfolio website to explore recent projects and learn more about my skills and experiences: [Portfolio](https://naimur61.vercel.app)
 
 ### Fun Fact
 
 ⚡ I bring humor and passion to my job!
-
-📫 How to reach me **naimur.r61n@gmail.com**
 
 ⚡ Fun fact **I am Funny and Passionate about my job**
 
@@ -81,15 +83,19 @@
 ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
+<br>
+<br>
+<be>
 
-# GitHub Stats:<img src="image/Statistics.jpg" alt="GitHub Stats" width="20" height="20">
+<div align="center">
+    
+# GitHub Stats <img src="image/Statistics.jpg" alt="GitHub Stats" height="25" border-radius= "2rem">
 
-<div style="display: flex; justify-content: center">
+<div>
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=naimur61&theme=midnight-purple&hide_border=false" width=70% alt="GitHub Streak Stats" />
 </div>
 <br>
-
-<div align="center">
+<br>
 
 ![Summary Cards Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=naimur61&theme=dracula)
 ![Summary Cards Most Used Languages](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=naimur61&theme=dracula)
@@ -100,3 +106,5 @@
 ### 🔝 Top Contributed Repo
 
 ![](https://github-contributor-stats.vercel.app/api?username=naimur61&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
+
+</div>
