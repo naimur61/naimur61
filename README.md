@@ -93,8 +93,6 @@
 
 <div align="center">
 
-![Stats](https://github-readme-stats.vercel.app/api?username=naimur61&theme=dracula&show_icons=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=naimur61&theme=dracula&layout=compact)
 ![Summary Cards Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=naimur61&theme=dracula)
 ![Summary Cards Most Used Languages](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=naimur61&theme=dracula)
 ![Summary Cards Repos Per Language](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=naimur61&theme=dracula)
