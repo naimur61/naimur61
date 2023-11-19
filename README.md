@@ -15,9 +15,7 @@
 
 ### About Me
 
-💡 Always eager to learn and explore new technologies, staying ahead in the 
-
-rapidly evolving world of web development.
+💡 Always eager to learn and explore new technologies, staying ahead in the rapidly evolving world of web development.
 
 🌟 Completed a comprehensive web development course at Programming Hero, refining my skills and gaining practical experience.
 
