@@ -1,4 +1,4 @@
-![Design and Development](https://github.com/naimur61/naimur61/blob/main/front-end%20banner.gif)
+![Design and Development](https://github.com/naimur61/naimur61/blob/main/Naimur.png)
 
 <h1 align="center">Hi 👋,<br/> I'm Md. Naimur Rahman</h1>
 <h3 align="center">A passionate Jr. MERN Stack Developer</h3>
