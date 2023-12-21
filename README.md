@@ -1,7 +1,7 @@
 ![Design and Development](https://github.com/naimur61/naimur61/blob/main/front-end%20banner.gif)
 
 <h1 align="center">Hi 👋,<br/> I'm Md. Naimur Rahman</h1>
-<h3 align="center">A passionate Jr. MERN Stack Developer from Bangladesh</h3>
+<h3 align="center">A passionate Jr. MERN Stack Developer</h3>
 <br>
 <img align="right" alt="Coding" width="400" src="https://github.com/naimur61/naimur61/blob/main/front-end-development.gif"
 
@@ -9,15 +9,13 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-🔭 Currently working on [Bike](https://bike-4.web.app/)
+🔭 Currently working on [University Management Auth](https://github.com/naimur61/university-management)
 
 🌱 Actively learning **Mongoose** to enhance my skill set.
 
 ### About Me
 
-💡 Always eager to learn and explore new technologies, staying ahead in the 
-
-rapidly evolving world of web development.
+💡 Always eager to learn and explore new technologies, staying ahead in the rapidly evolving world of web development.
 
 🌟 Completed a comprehensive web development course at Programming Hero, refining my skills and gaining practical experience.
 
