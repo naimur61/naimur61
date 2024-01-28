@@ -1,7 +1,7 @@
 ![Design and Development](https://github.com/naimur61/naimur61/blob/main/Naimur.png)
 
 <h1 align="center">Hi 👋,<br/> I'm Md. Naimur Rahman</h1>
-<h3 align="center">A passionate Jr. MERN Stack Developer</h3>
+<h3 align="center">A passionate Full Stack Stack Developer</h3>
 <br>
 <img align="right" alt="Coding" width="400" src="https://github.com/naimur61/naimur61/blob/main/front-end-development.gif"
 
@@ -10,7 +10,6 @@
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
 🔭 Currently working on [University Management Auth](https://university-management-dwum.onrender.com/)
-
 
 🌱 Actively learning **Mongoose** to enhance my skill set.
 
